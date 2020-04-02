@@ -1,6 +1,10 @@
 # thesis
 graduate thesis
 
+<center class="half">
+    <img src="small_3.jpg" width="200"/><img src="small_3_mask.jpg" width="200"/><img src="small_3_encoded.jpg" width="200"/>
+</center>
+
 ![](small_0.jpg)
 ![](small_0_mask.jpg)
 ![](small_0_encoded.jpg)
