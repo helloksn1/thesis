@@ -20,3 +20,7 @@ graduate thesis
 ![](small_4.jpg)
 ![](small_4_mask.jpg)
 ![](small_4_encoded.jpg)
+
+<img src="small_3.jpg" style="zoom:70%;" />
+<img src="small_3_mask.jpg" style="zoom:70%;" />
+<img src="small_3_encoded.jpg" style="zoom:70%;" />
