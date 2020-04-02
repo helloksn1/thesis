@@ -15,28 +15,30 @@ graduate thesis
 m 是为消除暂态效应的不良影响而舍去的混沌序列的前 m项，d(i)为ROI的低四位矩阵的元素值，lp为ROI的像素总数。  
 ROI提取过程如下：  
 锐化->强化对比度->提取边缘->提取形态->删除小的孔  
+**老师，ROI提取部分我自己乱写了点代码。描述那写算法的原理和过程，这样就可以写论文吗？ 加密算法我会修改**  
+**谢谢老师的评价和知道**  
 
 ![](small_0.jpg)
 ![](small_0_mask.jpg)
-![](small_0_encoded.jpg)
+![](small_0_encoded.jpg)  
 头部  
 
 ![](small_1.jpg)
 ![](small_1_mask.jpg)
-![](small_1_encoded.jpg)
+![](small_1_encoded.jpg)  
 脖子  
 
 ![](small_2.jpg)
 ![](small_2_mask.jpg)
-![](small_2_encoded.jpg)
+![](small_2_encoded.jpg)  
 脑  
 
 ![](small_3.jpg)
 ![](small_3_mask.jpg)
-![](small_3_encoded.jpg)
+![](small_3_encoded.jpg)  
 心脏  
 
 ![](small_4.jpg)
 ![](small_4_mask.jpg)
-![](small_4_encoded.jpg)
+![](small_4_encoded.jpg)  
 脑  
